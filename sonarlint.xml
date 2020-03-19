@@ -1,0 +1,22 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="java:S1948" />
+        <option value="java:S4276" />
+        <option value="squid:S1220" />
+        <option value="squid:S2293" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.vtb-dbo.projects.epam.com/" />
+          <token>df9adf9cdf9adfcbdf99df9adf98df9edfcedfcbdf9edf9cdf98df93df9fdf9bdfcedfc9df9fdf9fdf9fdf93dfcfdfccdf92dfc8df9fdf99df9adf98dfc9df9fdf92df93df99df9ddf9fdf98dfc9df9d</token>
+          <option name="name" value="VTB" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
