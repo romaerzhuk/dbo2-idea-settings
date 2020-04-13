@@ -1,5 +1,5 @@
 /**
  * ${NAME}.
  *
- * @author Roman_Erzhukov
+ * @author ${USER}
  */

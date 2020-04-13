@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/projects/dbo2/microservice-deposit/deposit-impl/src/test/java/ru/vtb/dbo/deposit/resource/DepositResourceIntegrationTest.java [deposit-impl]'" />
-    <option name="defaultScopeName" value="File '~/projects/dbo2/microservice-deposit/deposit-impl/src/test/java/ru/vtb/dbo/deposit/resource/DepositResourceIntegrationTest.java [deposit-impl]'" />
-    <option name="SEARCH_SCOPE" value="File '~/projects/dbo2/microservice-deposit/deposit-impl/src/test/java/ru/vtb/dbo/deposit/resource/DepositResourceIntegrationTest.java [deposit-impl]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -22,13 +22,13 @@
     <mask>*.xsd</mask>
     <mask>*.properties</mask>
     <mask>*.pom</mask>
+    <mask>pom.xml</mask>
+    <mask>*</mask>
     <mask>*In*Test.java</mask>
     <mask>*Test.java</mask>
     <mask>*.yml</mask>
     <mask>*xml</mask>
     <mask>*.java</mask>
-    <mask>*</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
