@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*IntegrationTest.java" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -31,12 +31,12 @@
     <mask>*.pom</mask>
     <mask>*</mask>
     <mask>*In*Test.java</mask>
-    <mask>*Test.java</mask>
     <mask>*.yml</mask>
     <mask>*xml</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*IntegrationTest.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
