@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="VShelfLifeItem" type="PLAIN_TEXT" />
       <mapping pattern="mockito-extensions/ы" type="PLAIN_TEXT" />
       <mapping ext="stacktracecleanerprovider" type="PLAIN_TEXT" />
