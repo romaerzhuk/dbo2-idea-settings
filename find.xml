@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/projects/dbo2/microservice-deposit/deposit-impl/src/test/java/ru/vtb/dbo/deposit/resource/DepositResourceIntegrationTest.java [deposit-impl]'" />
-    <option name="defaultScopeName" value="File '~/projects/dbo2/microservice-deposit/deposit-impl/src/test/java/ru/vtb/dbo/deposit/resource/DepositResourceIntegrationTest.java [deposit-impl]'" />
-    <option name="SEARCH_SCOPE" value="File '~/projects/dbo2/microservice-deposit/deposit-impl/src/test/java/ru/vtb/dbo/deposit/resource/DepositResourceIntegrationTest.java [deposit-impl]'" />
-    <mask>*.html</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="(" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -22,13 +24,17 @@
     <mask>*.xsd</mask>
     <mask>*.properties</mask>
     <mask>*.pom</mask>
-    <mask>*In*Test.java</mask>
-    <mask>*Test.java</mask>
-    <mask>*.yml</mask>
-    <mask>*xml</mask>
-    <mask>*.java</mask>
     <mask>*</mask>
+    <mask>*In*Test.java</mask>
+    <mask>*xml</mask>
     <mask>pom.xml</mask>
+    <mask>*IntegrationTest.java</mask>
+    <mask>*Test.java</mask>
+    <mask>*prop*</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
+    <mask>(</mask>
   </component>
 </application>
