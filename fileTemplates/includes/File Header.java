@@ -1,3 +1,5 @@
 /**
- * @author Roman_Erzhukov
+ * ${NAME}.
+ *
+ * @author ${USER}
  */

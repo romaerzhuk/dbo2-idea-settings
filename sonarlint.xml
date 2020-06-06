@@ -1,14 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonarqube.vtb-dbo.projects.epam.com/" />
-          <token>df9adf9cdf9adfcbdf99df9adf98df9edfcedfcbdf9edf9cdf98df93df9fdf9bdfcedfc9df9fdf9fdf9fdf93dfcfdfccdf92dfc8df9fdf99df9adf98dfc9df9fdf92df93df99df9ddf9fdf98dfc9df9d</token>
+          <option name="hostUrl" value="http://sonar.vtb-dbo.local" />
+          <token>dfccdfcedf9edf9cdf9bdf9adf92df9edf9cdfcfdfc8df98df9ddfcbdf9adf9bdfcedfcedf92df9bdf9edfcbdf9ddf9fdfccdf93df92dfcbdfc9df93df9edf99dfcbdf9fdfcedf9ddf99df9fdf99df93</token>
           <option name="name" value="VTB" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>

@@ -16,6 +16,9 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <module name="TreeWalker">
     <module name="SuppressWarningsHolder" />
     <module name="AbbreviationAsWordInName">
