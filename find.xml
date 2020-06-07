@@ -18,10 +18,10 @@
     <mask>*prop*</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*ftl</mask>
     <mask>*.yml</mask>
     <mask>(</mask>
+    <mask>*.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
