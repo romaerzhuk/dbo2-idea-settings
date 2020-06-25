@@ -18,9 +18,9 @@
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*ftl</mask>
-    <mask>*.yml</mask>
     <mask>(</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
