@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/projects/dbo2/microservice-deposit-mb/deposit-mb-impl/src/test/java/ru/vtb/dbo/deposit/service/ApplicationDocumentServiceImplTest.java [deposit-mb-impl]'" />
-    <option name="defaultScopeName" value="File '~/projects/dbo2/microservice-deposit-mb/deposit-mb-impl/src/test/java/ru/vtb/dbo/deposit/service/ApplicationDocumentServiceImplTest.java [deposit-mb-impl]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/projects/dbo2/microservice-deposit-mb/deposit-mb-impl/src/test/java/ru/vtb/dbo/deposit/service/ApplicationDocumentServiceImplTest.java [deposit-mb-impl]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
