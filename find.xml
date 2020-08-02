@@ -5,8 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -14,11 +12,20 @@
     <mask>*.mxml</mask>
     <mask>*tionTest.java</mask>
     <mask>*</mask>
-    <mask>pom.xml</mask>
     <mask>*Test.java</mask>
+    <mask>*prop*</mask>
+    <mask>*.sql</mask>
+    <mask>*ftl</mask>
+    <mask>(</mask>
+    <mask>*.yml</mask>
+    <mask>*xml</mask>
+    <mask>*jrxml</mask>
+    <mask>pom.xml</mask>
+    <mask>*.jrxml</mask>
+    <mask>*.xsd</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*ftl</mask>
-    <mask>*.yml</mask>
+    <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
