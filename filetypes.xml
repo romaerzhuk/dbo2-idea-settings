@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern="VShelfLifeItem" type="PLAIN_TEXT" />
       <mapping pattern="mockito-extensions/ы" type="PLAIN_TEXT" />
-      <mapping ext="stacktracecleanerprovider" type="PLAIN_TEXT" />
       <mapping ext="idoc" type="PLAIN_TEXT" />
+      <mapping ext="stacktracecleanerprovider" type="PLAIN_TEXT" />
       <mapping pattern="resource.RU" type="Properties" />
-      <mapping ext="ru" type="Properties" />
       <mapping ext="de" type="Properties" />
+      <mapping ext="ru" type="Properties" />
     </extensionMap>
   </component>
 </application>
