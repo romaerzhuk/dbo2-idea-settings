@@ -8,7 +8,6 @@
       <mapping pattern="resource.RU" type="Properties" />
       <mapping ext="de" type="Properties" />
       <mapping ext="ru" type="Properties" />
-      <removed_mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>
