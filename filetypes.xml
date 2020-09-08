@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="VShelfLifeItem" type="PLAIN_TEXT" />
       <mapping pattern="mockito-extensions/ы" type="PLAIN_TEXT" />
       <mapping ext="idoc" type="PLAIN_TEXT" />
