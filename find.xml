@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -18,7 +18,6 @@
     <mask>*.sql</mask>
     <mask>*ftl</mask>
     <mask>(</mask>
-    <mask>*.yml</mask>
     <mask>*xml</mask>
     <mask>*jrxml</mask>
     <mask>pom.xml</mask>
@@ -28,5 +27,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
