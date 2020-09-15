@@ -15,5 +15,11 @@
     <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-09-15T18:14:47.506945Z">
       <attribute name="bitbucket">server</attribute>
     </event>
+    <event name="OpenFile" place="EditorPopup" timestamp="2020-09-15T20:29:49.209291Z">
+      <attribute name="editor">true</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
   </component>
 </application>
