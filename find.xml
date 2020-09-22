@@ -29,5 +29,6 @@
     <mask>*.xsd</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*IntegrationTest.java</mask>
   </component>
 </application>
