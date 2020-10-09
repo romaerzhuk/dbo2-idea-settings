@@ -5,9 +5,11 @@
   <component name="BitbucketServerRegistry">
     <instances>
       <instance uuid="2a8dc4ba-ad7e-307c-a11f-afb506242d7a" baseUri="https://bitbucket.region.vtb.ru/" />
+      <instance uuid="2a8dc4ba-ad7e-307c-a11f-afb506242d7a" baseUri="https://bitbucket.region.vtb.ru/" />
     </instances>
     <lookup>
       <record scheme="https" hostname="bitbucket.region.vtb.ru" port="-1" path="/" uuid="2a8dc4ba-ad7e-307c-a11f-afb506242d7a" />
+      <record scheme="ssh" hostname="bitbucket.region.vtb.ru" port="7999" path="/" uuid="2a8dc4ba-ad7e-307c-a11f-afb506242d7a" />
     </lookup>
   </component>
   <component name="Instance" id="f997a61a-d68c-4cfc-ba49-116ca6e8b6cd" version="2020.2.135" />
