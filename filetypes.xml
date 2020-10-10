@@ -11,6 +11,7 @@
       <mapping ext="de" type="Properties" />
       <mapping ext="ru" type="Properties" />
       <mapping ext="0_02_create_table_signature_request" type="XML" />
+      <removed_mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>
