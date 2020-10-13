@@ -30,5 +30,6 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*IntegrationTest.java</mask>
+    <mask>depo*jrxml</mask>
   </component>
 </application>
