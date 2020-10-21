@@ -28,9 +28,9 @@
     <mask>*.java</mask>
     <mask>*.xsd</mask>
     <mask>pom.xml</mask>
-    <mask>*.xml</mask>
     <mask>*IntegrationTest.java</mask>
     <mask>depo*jrxml</mask>
     <mask>*yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
