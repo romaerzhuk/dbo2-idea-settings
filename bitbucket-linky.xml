@@ -17,5 +17,14 @@
     <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-22T09:24:20.783274Z">
       <attribute name="bitbucket">server</attribute>
     </event>
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-22T09:35:15.697508Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-22T09:36:14.812676Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-22T09:40:56.722541Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
   </component>
 </application>
