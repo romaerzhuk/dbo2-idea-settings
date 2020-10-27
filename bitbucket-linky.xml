@@ -13,24 +13,4 @@
     </lookup>
   </component>
   <component name="Instance" id="f997a61a-d68c-4cfc-ba49-116ca6e8b6cd" version="2020.2.135" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-27T04:09:52.882151Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-27T04:10:10.712150Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-27T04:13:17.721308Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-27T04:35:06.341650Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-27T04:37:17.035633Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2020-10-27T04:37:39.380936Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
