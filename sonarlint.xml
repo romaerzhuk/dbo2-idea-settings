@@ -10,6 +10,8 @@
         </SonarQubeServer>
       </list>
     </option>
-    <rules />
+    <rules>
+      <Rule active="false" key="java:S4276" />
+    </rules>
   </component>
 </application>
