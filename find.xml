@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../contractor-restriction-list-impl/src/main/java/ru/vtb/dbo/contractor/restriction/list/service/dictionary/worldbank/WorldBankServiceImpl.java [contractor-restriction-list-impl]'" />
+    <option name="defaultScopeName" value="File '.../contractor-restriction-list-impl/src/main/java/ru/vtb/dbo/contractor/restriction/list/service/dictionary/worldbank/WorldBankServiceImpl.java [contractor-restriction-list-impl]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../contractor-restriction-list-impl/src/main/java/ru/vtb/dbo/contractor/restriction/list/service/dictionary/worldbank/WorldBankServiceImpl.java [contractor-restriction-list-impl]'" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
