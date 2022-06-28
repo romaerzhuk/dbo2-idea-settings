@@ -2,39 +2,35 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="(" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*Controller*.*</mask>
-    <mask>*.prop*</mask>
-    <mask>*Controller*.java</mask>
-    <mask>*Controller.java</mask>
-    <mask>*.prop</mask>
-    <mask>*.ja</mask>
-    <mask>*.jrxml</mask>
-    <mask>*.csv</mask>
-    <mask>*.xslt</mask>
-    <mask>*.</mask>
-    <mask>*.xsd</mask>
-    <mask>*.properties</mask>
-    <mask>*.pom</mask>
+    <mask>*tionTest.java</mask>
     <mask>*</mask>
-    <mask>*In*Test.java</mask>
-    <mask>*xml</mask>
-    <mask>pom.xml</mask>
-    <mask>*IntegrationTest.java</mask>
     <mask>*Test.java</mask>
     <mask>*prop*</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
-    <mask>*.yml</mask>
+    <mask>*ftl</mask>
     <mask>(</mask>
+    <mask>*jrxml</mask>
+    <mask>*.jrxml</mask>
+    <mask>*.properties</mask>
+    <mask>*.yaml</mask>
+    <mask>*.csv</mask>
+    <mask>depo*jrxml</mask>
+    <mask>*yml</mask>
+    <mask>*ionTest.java</mask>
+    <mask>*.xsd</mask>
+    <mask>*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*Aspect.java</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
+    <mask>*.yml</mask>
+    <mask>*IntegrationTest.java</mask>
+    <mask>*xml</mask>
   </component>
 </application>

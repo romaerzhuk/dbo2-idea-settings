@@ -1,12 +1,25 @@
 <application>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
       <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.region.vtb.ru" />
+          <option name="userName" value="VTB4005920" />
+        </UrlAndUserName>
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="/tmp" />
   </component>
 </application>

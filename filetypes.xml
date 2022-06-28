@@ -1,13 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="mockito-extensions/ы" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="VShelfLifeItem" type="PLAIN_TEXT" />
-      <mapping ext="stacktracecleanerprovider" type="PLAIN_TEXT" />
+      <mapping pattern="mockito-extensions/ы" type="PLAIN_TEXT" />
       <mapping ext="idoc" type="PLAIN_TEXT" />
+      <mapping ext="stacktracecleanerprovider" type="PLAIN_TEXT" />
       <mapping pattern="resource.RU" type="Properties" />
-      <mapping ext="ru" type="Properties" />
       <mapping ext="de" type="Properties" />
+      <mapping ext="ru" type="Properties" />
+      <mapping ext="0_02_create_table_signature_request" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
     </extensionMap>
