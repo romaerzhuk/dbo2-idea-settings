@@ -7,13 +7,13 @@
       <mapping pattern="VShelfLifeItem" type="PLAIN_TEXT" />
       <mapping ext="idoc" type="PLAIN_TEXT" />
       <mapping ext="stacktracecleanerprovider" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="resource.RU" type="Properties" />
       <mapping ext="de" type="Properties" />
       <mapping ext="ru" type="Properties" />
       <mapping ext="0_02_create_table_signature_request" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
