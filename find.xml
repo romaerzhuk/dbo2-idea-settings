@@ -3,12 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*tionTest.java</mask>
-    <mask>*</mask>
     <mask>*Test.java</mask>
     <mask>*prop*</mask>
     <mask>*.sql</mask>
@@ -33,5 +31,7 @@
     <mask>*.java</mask>
     <mask>*.java</mask>
     <mask>*jsp</mask>
+    <mask>*</mask>
+    <mask>*Russian.prop*</mask>
   </component>
 </application>
