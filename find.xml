@@ -25,13 +25,13 @@
     <mask>*.xsd</mask>
     <mask>pom.xml</mask>
     <mask>*Aspect.java</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*IntegrationTest.java</mask>
     <mask>*xml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.prop*</mask>
+    <mask>*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
